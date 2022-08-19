@@ -1,1 +1,1 @@
-# ptyhon_assignment1
+# python_assignment1
